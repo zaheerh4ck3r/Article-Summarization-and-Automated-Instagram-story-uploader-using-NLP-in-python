@@ -1,0 +1,7 @@
+instabot
+pillow
+wand
+newspaper3k
+sumy
+requests
+numpy
